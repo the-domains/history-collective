@@ -6,9 +6,9 @@ color:
   saturation: 0.16390514629893005
   rhythmicContrast: 0.1788406812120229
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: History Collective
