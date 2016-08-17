@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[HISTORY COLLECTIVE]]></title>
         <description><![CDATA[HISTORY COLLECTIVE]]></description>
-        <link>http://wath.co/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:31:27 GMT</lastBuildDate>
-        <atom:link href="http://wath.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[JJ NOZELL - Profile]]></title>
-            <description><![CDATA[<article><h1>JJ NOZELL - Profile</h1><p>POET & MUSICIAN jjnozell.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db2452fe38fb73b97a0fec2df840c06f/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*tVxax8ZecKAawcmjIcOWfw.jpeg"></article>]]></description>
-            <link>http://wath.co/jj-nozell-profile/index.html</link>
-            <guid isPermaLink="false">c7375f6a-c9e8-4742-9ec8-4544e66c81d6</guid>
-            <pubDate>Wed, 17 Aug 2016 15:31:26 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 17 Aug 2016 15:31:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JJ NOZELL]]></title>
             <description><![CDATA[<article><h1>JJ NOZELL</h1><p>POET & MUSICIAN</p></article>]]></description>
